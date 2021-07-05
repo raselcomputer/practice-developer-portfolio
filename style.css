@@ -72,3 +72,6 @@ p{
     border-image-slice: 1;
     border-left: 5px solid;
 }
+footer p{
+    text-align: center;
+}
