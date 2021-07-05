@@ -4,10 +4,12 @@ body{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    background-position: left;
 }
 .half-width{
     width: 100%;
@@ -25,6 +27,7 @@ h2{
 }
 p{
     color: #747171;
+    text-align: justify;
 }
 .orange-color{
     color: orange;
@@ -37,4 +40,12 @@ p{
     text-decoration: none;
     border-radius: 15px;
     background-image: linear-gradient(tomato, orange);
+}
+.dream-big-area{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+#dream-text{
+    padding-right: 5%;
 }
