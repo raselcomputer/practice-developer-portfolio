@@ -7,7 +7,7 @@ section{
 }
 #flex-container{
     display: flex;
-    margin: 0 2%;
+    padding: 0 2%;
     margin-bottom: 100px;
 }
 .top-banner{
